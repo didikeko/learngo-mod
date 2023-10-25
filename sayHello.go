@@ -1,5 +1,5 @@
 package sayHello
 
-func sayHello(name *string)  {
+func SayHello(name *string)  {
 	println("Hello", name)
 }
